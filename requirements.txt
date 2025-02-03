@@ -1,0 +1,4 @@
+python-telegram-bot==20.1
+beautifulsoup4==4.12.2
+requests==2.31.0
+nest-asyncio==1.5.6
